@@ -1,25 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
 body {
-    background-color: #cccc99;
-    background-image: url("night.jpg");
-    color: #ffffff;
-}
-h1,h2 {
-   
-}
-p {
-    font-size: large;
-    border-style: solid;
-    border-color: #010101;
-    border-width: thick;
-    width: 50%;
+    background-color: #cccccc;
 }
 
-#content {
-   
+ul {
+    list-style: none;
 }
-.quotation {
-    
+
+ul li:nth-child(3) {
+    display: none;
 }
-div {
-    width: 50%;
+
+
+ul li {
+    width: 150px;
+    text-align: center;
+    margin: 5px;
+    padding: 3px 0 0 10 px;
+    border-bottom: 10px solid #000000;
+    border-left: 10px solid #cc3333;
+    background-color: #cccc99;   
 }
