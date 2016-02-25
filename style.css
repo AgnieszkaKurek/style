@@ -2,6 +2,12 @@ body {
     background-color: #cccc99;
 }
 h1,h2 {
-    background-color: #e4e48b
+    background-color: #e4e48b;
 }
 
+#content {
+    background-color: #00ff00;
+}
+.quotation {
+    background-color:#0000ff;
+}
