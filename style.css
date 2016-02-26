@@ -1,34 +1,21 @@
-body 
+ p
 {
-    padding: 0;
-    margin: 0;
+  color: #000000;
+  font-size: medium;
+  font-family: 'Segoe UI';
 }
-#header 
+h1
 {
-   text-align: center;
-    height: 100px;
+  color: #ff0000;
+  font-size: x-large;
 }
-#links 
+h2
 {
-    position: absolute;
-    top: 120px;
-    left: 0px;
-    
-    width: 100px;
+  color: #0000ff;
+  font-size: larger;
 }
-
-#authorinfo 
-{  
-    position: absolute;
-    top: 120px;
-    right: 0px;
-    width: 300px;
-}   
-
-#content 
-{   
-    
-    margin-left: 105px;
-    margin-right: 305px;
+        
+footer p
+{
+font-size: x-small;
 }
-   
