@@ -8,17 +8,27 @@ body
    text-align: center;
     height: 100px;
 }
+#links 
+{
+    position: absolute;
+    top: 120px;
+    left: 0px;
+    
+    width: 100px;
+}
 
 #authorinfo 
 {  
-    margin-left: 650px;
+    position: absolute;
+    top: 120px;
+    right: 0px;
+    width: 300px;
 }   
 
 #content 
 {   
-    position: absolute;
-    top: 120px;
-    left: 5px;
-    width:600px;
+    
+    margin-left: 105px;
+    margin-right: 305px;
 }
    
