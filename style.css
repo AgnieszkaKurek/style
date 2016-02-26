@@ -1,9 +1,24 @@
-#buttons 
+body 
 {
-    margin: 100px 0 100px 0;
+    padding: 0;
+    margin: 0;
+}
+#header 
+{
+   text-align: center;
+    height: 100px;
 }
 
-#buttons input 
-{
-    width: 120px;
+#authorinfo 
+{  
+    margin-left: 650px;
+}   
+
+#content 
+{   
+    position: absolute;
+    top: 120px;
+    left: 5px;
+    width:600px;
 }
+   
