@@ -19,3 +19,20 @@ footer p
 {
 font-size: x-small;
 }
+
+.entry-title
+{
+  background-color: #808080;
+}
+.entry-meta
+{
+   font-style: italic;       
+}       
+.author
+{       
+  font-style: normal;        
+}       
+#post-5946
+{
+  background-color: #e2e0e0;
+}
