@@ -36,6 +36,19 @@ font-size: x-small;
 {
   background-color: #e2e0e0;
 }
-ul li a {
+ul li a 
+{
     color: #ff0000;
+}
+/*.entry-content :first-child
+{
+    color: #00008b;
+}*/
+ul :nth-child(odd)
+{
+    background-color: #d5c1ff;
+}
+ul :nth-child(even) 
+{
+    background-color: #ffffff;
 }
