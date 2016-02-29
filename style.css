@@ -52,3 +52,13 @@ ul :nth-child(even)
 {
     background-color: #ffffff;
 }
+
+.aside-body p :nth-of-type(odd)
+{
+    background-color: #d5c1ff;
+}
+
+.aside-body p :nth-of-type(even) 
+{
+   background-color: #ffffff; 
+}
